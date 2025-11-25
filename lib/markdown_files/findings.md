@@ -1,6 +1,6 @@
 ---
 title: "Rejecting papers in #AI Conferences because of 'resource constraints' is shooting ourselves in the foot as a community; use Findings.."
-date: "2025-11-24"
+date: "2025-08-31"
 author: "Rao"
 ---
 
